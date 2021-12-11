@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <img width="25%" src="./hike-icon.png"></img>
+  <img width="55%" src="./hike-icon.png"></img>
 
   <h3 align="center">Hike</h3>
   
